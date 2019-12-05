@@ -1,0 +1,6 @@
+select PL_AGEND_ID,PL_SUBJ_ID,DAY_OF_MONTH,DAY_MONTH,DAY_YEAR from PL_DAY 
+where  PL_AGEND_ID = 269 
+and  PL_SUBJ_ID = 326 
+and  DAY_OF_MONTH = 4 
+and  DAY_MONTH = 4 
+and  DAY_YEAR = 16 
